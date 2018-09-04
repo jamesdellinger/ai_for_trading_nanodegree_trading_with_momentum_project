@@ -8,15 +8,16 @@ For Udacity's [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd
 Topic: Momentum Trading.
 
 ## Overview
-* Generating a trading signal based on a momentum indicator, computing it for a given time range, and applying it to a dataset to estimate projected returns.
-* Finally, you will perform a statistical test on the mean of the returns to conclude if there is alpha in the signal. For the dataset, we'll be using the end of day from Quotemedia.
+* Generating a trading signal based on a momentum indicator, computing this signal for a given time range, and applying the signal to a dataset in order to estimate projected returns.
+* Performing a statistical test on the mean of the returns to conclude if there is alpha in the signal.
+* The dataset is a set of end-of-day stock prices that comes from [Quotemedia](http://www.quotemedia.com/).
 
 ## Concepts
 * Using Pandas to resample end-of-day stock prices to a dataframe of end-of-month prices.
 * Implementing Python methods that:
-    * Return the best and worst performing stocks in a given time period.
-    * Calculate expected portfolio returns of longing the best stocks and shorting the worst ones.
-* Calculating the T-statistic and its corresponding p-value, and using it to determine whether the expected portfolio returns were or were not due to random chance.
+    * Return the best and worst performing stocks at a given point in time.
+    * Calculate a sample of the portfolio returns of longing the best stocks and shorting the worst ones over a particular time window.
+* Calculating the T-statistic and its corresponding p-value, and using this information to determine whether it is safe to rule out the possibility that the observed sample portfolio returns came about due to random chance.
 
 ## My Completed Project
 * [ipython notebook](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.ipynb) / [html version](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.html) / [pdf version](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.pdf)
