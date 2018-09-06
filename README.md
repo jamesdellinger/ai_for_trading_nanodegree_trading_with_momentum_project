@@ -20,7 +20,7 @@ Topic: Momentum Trading.
 * Calculating the T-statistic and its corresponding p-value, and using this information to determine whether it is safe to rule out the possibility that the observed sample portfolio returns came about due to random chance.
 
 ## My Completed Project
-* [ipython notebook](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.html) / [pdf version](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.pdf)
+* [ipython notebook](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.ipynb) / [html version](http://htmlpreview.github.com/?https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.html)
 
 ## Project Grading and Evaluation
 * [Project Review](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/trading_with_momentum_project_review.pdf)
