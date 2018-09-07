@@ -20,7 +20,7 @@ Topic: Basic Quantitative Trading.
 * Calculating the T-statistic and its corresponding p-value, and using this information to determine whether it is safe to rule out the possibility that the observed sample portfolio returns came about due to random chance.
 
 ## My Completed Project
-* [ipython notebook](http://nbviewer.jupyter.org/github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.ipynb)
+* [ipython notebook](http://nbviewer.jupyter.org/github/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/project_1_starter.ipynb)
 
 ## Project Grading and Evaluation
 * [Project Review](https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/trading_with_momentum_project_review.pdf)
