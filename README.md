@@ -5,7 +5,7 @@
 
 For Udacity's [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd880) Nanodegree.
 
-Topic: Momentum Trading.
+Topic: Basic Quantitative Trading.
 
 ## Overview
 * Generating a trading signal based on a momentum indicator, computing this signal for a given time range, and applying the signal to a dataset in order to estimate projected returns.
